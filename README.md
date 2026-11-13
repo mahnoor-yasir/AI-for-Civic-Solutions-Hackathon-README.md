@@ -105,29 +105,6 @@ The following features may be added in future versions:
 - Support for additional regional languages.
 - Voice-based learning assistance.
 
-## Project Structure
-
-```text
-TaleemAI/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── services/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── .env.example
-├── package.json
-├── index.html
-└── README.md
-```
-
-*Note: The structure represents the proposed application architecture and may evolve during development.*
-
 ## Getting Started
 
 ### Prerequisites
